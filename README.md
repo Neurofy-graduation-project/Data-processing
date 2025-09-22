@@ -8,6 +8,6 @@
 
 - Wavelet transformation using the Mexican Wavelet as the mother wavelet , producing the 3D tensors of the time , frequency, and channel number dimensions stored in HDF5.
 
-- Some of the graphs demonstrating the results you will find in the *snaps* files.
+- Some of the graphs demonstrating the results you will find in the *snaps* folder.
 
 
