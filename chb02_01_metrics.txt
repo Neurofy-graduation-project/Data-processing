@@ -1,0 +1,6 @@
+Signal Quality Metrics
+=====================
+Original SNR: 11.82 dB
+Cleaned SNR: 13.34 dB
+SNR Improvement: 1.52 dB
+Artifact Reduction: 0.00%
